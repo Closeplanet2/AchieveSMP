@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AchieveSMP.iml" filepath="$PROJECT_DIR$/AchieveSMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/achievesmp.iml" filepath="$PROJECT_DIR$/achievesmp.iml" />
     </modules>
   </component>
 </project>
