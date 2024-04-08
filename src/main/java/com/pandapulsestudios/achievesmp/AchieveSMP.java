@@ -10,6 +10,7 @@ import com.pandapulsestudios.pulsecommands.PulseCommands;
 import com.pandapulsestudios.achievesmp.Configs.AchieveSMPMessages;
 
 public final class AchieveSMP extends JavaPlugin {
+
     public static AchieveSMP AchieveSMP;
     public static AchieveSMPSettings AchieveSMPSettings;
     public static AchieveSMPPermissions AchieveSMPPermissions;
